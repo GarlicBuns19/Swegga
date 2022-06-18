@@ -1,0 +1,8 @@
+/* My own css */
+#main{
+	padding-bottom: 93px;
+}
+/* For border spacing not to have spaces */
+table {
+	border-spacing: 0px;
+}
