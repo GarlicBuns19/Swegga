@@ -36,9 +36,7 @@ body {
 	margin: 0; }
 	
 /* the styles for the table*/
-table {
-	border-spacing: 0px;
-}
+
 caption {
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
@@ -54,3 +52,12 @@ td, th {
 	
 .alignRight {
 	text-align: right; }
+
+/* My own css */
+#main{
+	padding-bottom: 93px;
+}
+/* For border spacing not to have spaces */
+table {
+	border-spacing: 0px;
+}
