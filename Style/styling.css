@@ -15,7 +15,7 @@ body {
 	padding: 10px; }
 
 #banner {
-    margin-bottom: 1em;
+	margin-bottom: 1em;
 	height: 85px;
 	width: 300px;
 }
@@ -60,9 +60,9 @@ td, th {
 #main{
     margin-left: 150px;
 }
-/* For border spacing not to have spaces */
 table {
-    border: 1px solid ;
+	width: 560px;
+    border: 1px solid black;
     border-collapse: collapse;
 }
 footer{
